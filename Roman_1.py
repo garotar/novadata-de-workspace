@@ -11,6 +11,7 @@ class Human:
 
     def greeting(self) -> str:
         print(f"Hi! My name is {self.name}, I'm {self.age} years old. I work as {self.job} for OpenAI.")
+        print(f"HAHAHHA Staryi Kon' borozdy ne isportit!")
 
 
 if __name__ == "__main__":
